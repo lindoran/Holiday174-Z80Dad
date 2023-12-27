@@ -1,6 +1,6 @@
 # Holiday174-2023
 
-A Very Simpe 4 state machine on a 74hc73, this is a multivibrator on 2 1n2222 transistors (similar PNP may work).  
+A Very Simpe 4 state machine on a 74hc73 and a multivibrator on 2 1n2222 transistors (similar PNP may work also).  
 
 <h3>The contest rules are simple:</h3>
  
