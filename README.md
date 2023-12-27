@@ -23,7 +23,7 @@ A Very Simpe 4 state machine on a 74hc73, this is a multivibrator on 2 1n2222 tr
 
 <P>The project is powered by a pair of CR2032 battiries in series.  I used a 1N4007 rectifier diode, to previent accidentaly reversing the voltage from the pack.  The 74HC73 package itself supports a VCC of 6 volts, however the diode has a forward drop of about .8 volts. I also ended up building a few of these as gifts, and experimented with a few alternate parts.  Instead of Zener Diodes I tried using standard rectifier diodes for the and gates which worked and most likely reduces the cost further.</P>
 
-<h3>Here is a small <a href="https://www.facebook.com/1557231165/videos/1525780231489265/" target="_blank" rel="noopener noreferrer">reel</a> of the oriment in action:</h3>
+<h3>Here is a small <a href="https://www.facebook.com/1557231165/videos/1525780231489265/" target="_blank" rel="noopener noreferrer">reel</a> of the project in action:</h3>
 
 
  
